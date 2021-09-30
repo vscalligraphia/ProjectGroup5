@@ -1,0 +1,7 @@
+package com.moglix.employeemanagementsystem.service;
+
+import com.moglix.employeemanagementsystem.repository.EmployeeRepository;
+
+public interface EmployeeServiceImpl extends EmployeeRepository {
+
+}

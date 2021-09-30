@@ -1,0 +1,24 @@
+package com.moglix.employeemanagementsystem.repository;
+
+import com.moglix.employeemanagementsystem.dto.Employee;
+
+public class EmployeeDAO {
+	
+	private static int counter=-1;
+	
+	Employee employees[] = new Employee[10];
+	
+	public String addEmployee(Employee employee) {
+		
+		if(counter<employees.length) {
+			
+			
+		}
+		
+		else
+			return "Array is full!!!!";
+		
+	}
+	
+
+}

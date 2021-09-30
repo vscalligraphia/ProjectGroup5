@@ -1,0 +1,10 @@
+package com.moglix.employeemanagementsystem.service;
+
+import com.moglix.employeemanagementsystem.repository.RoleRepository;
+
+public class RoleService implements RoleServiceImpl{
+
+	public RoleService() {
+		// TODO Auto-generated constructor stub
+	}
+}
