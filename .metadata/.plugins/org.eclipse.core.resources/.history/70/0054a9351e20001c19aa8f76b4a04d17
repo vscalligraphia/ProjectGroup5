@@ -1,0 +1,13 @@
+package com.moglix.employeemanagmentsystem;
+
+import com.moglix.employeemanagementsystem.dto.Manager;
+
+public class Manager3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Manager manager = new Manager();
+
+	}
+
+}

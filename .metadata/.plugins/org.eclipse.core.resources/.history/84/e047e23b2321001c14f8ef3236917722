@@ -1,0 +1,8 @@
+package com.moglix.employeemanagementsystem.repository;
+
+public class RoleDAO {
+	public RoleDAO() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

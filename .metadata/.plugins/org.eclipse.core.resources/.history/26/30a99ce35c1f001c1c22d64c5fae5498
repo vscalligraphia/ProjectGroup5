@@ -1,0 +1,16 @@
+package com.moglix.employeemanagementsystem.repository;
+
+import com.moglix.employeemanagementsystem.dto.Employee;
+
+public class EmployeeDAO {
+	
+	int counter=-1;
+	
+	Employee employee[] = new Employee[10];
+	
+	public String addEmployee(Employee employee) {
+		
+	}
+	
+
+}

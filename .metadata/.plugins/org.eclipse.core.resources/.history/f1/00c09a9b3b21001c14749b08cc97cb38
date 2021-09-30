@@ -1,0 +1,10 @@
+package com.moglix.employeemanagementsystem.repository;
+
+public class UserDAO {
+	public UserDAO() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+
+}
